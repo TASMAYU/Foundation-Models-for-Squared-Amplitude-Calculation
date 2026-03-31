@@ -1,1 +1,4 @@
 # Foundation-Models-for-Squared-Amplitude-Calculation
+
+One of the most important physical quantities in particle physics is the cross section, or a probability that a particular process takes place in the interaction of elementary particles. Its measure provides a testable link between theory and experiment. It is obtained theoretically mainly by calculating the squared amplitude. This project aims to build a foundation model for squared amplitude calculation. This project is closely related to the projects “Physics-Informed Encoding and Decoding for Squared Amplitude Calculation” and “Physics-Informed Models for Squared Amplitude Calculation”. Complete foundation model solutions should build on the ideas from those proposals incorporating physics-informed representations and architectures.
+
